@@ -15,6 +15,7 @@ I am a student at Gyungsang National University High School
 ### ✨ Experience
 - **GNUBS Site** - Gyungsang National University High School Student Convenience Site Operation *(Mar 2021 ~)*
 - **GNUBS BOT** - Gyungsang National University High School Student Automatically upload related information bot *(Mar 2022 ~)*
+<br/>
 **The above is not an official school operation, but an individual's hobby**
 
 
