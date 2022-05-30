@@ -11,7 +11,7 @@
 
 <br/>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkawkqhr" alt="wkawkqhr" /></a> </p>
+
 
 - 📫 How to reach me **admin@wfix.kr**
 
@@ -26,12 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wkawkqhr&show_icons=true&locale=en" alt="wkawkqhr" /></p>
 
 
-## Hi there 👋
-
-
-
-
-<br/>
 
 ### ✨ Experience
 - **GNUBS Site** - Gyungsang National University High School Student Convenience Site Operation *(Mar 2021 ~)*
