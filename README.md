@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jiho Lee!</h1>
 <h3 align="center">I am a student at Gyungsang National University High School</h3>
 
+
+
 <a href="https://github.com/WkaWkqhr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkawkqhr" alt="wkawkqhr" /></a> </p>
 
