@@ -9,6 +9,17 @@
 
 I am a student at Gyungsang National University High School
 
+
+<br/>
+
+### ✨ Experience
+- **GNUBS Site** - Gyungsang National University High School Student Convenience Site Operation *(Mar 2021 ~)*
+- **GNUBS BOT** - Gyungsang National University High School Student Automatically upload related information bot *(Mar 2022 ~)*
+**The above is not an official school operation, but an individual's hobby**
+
+
+
+
 <!--
 **WkaWkqhr/WkaWkqhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
