@@ -32,12 +32,11 @@
 
 **The above is not an official school operation, but an individual's hobby**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wkawkqhr&show_icons=true&locale=en" alt="wkawkqhr" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WkaWkqhr&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkawkqhr&label=Profile%20views&color=0e75b6&style=flat" alt="wkawkqhr" /> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WkaWkqhr&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WkaWkqhr/WkaWkqhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
