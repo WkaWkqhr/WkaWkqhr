@@ -5,9 +5,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkawkqhr&label=Profile%20views&color=0e75b6&style=flat" alt="wkawkqhr" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkawkqhr" alt="wkawkqhr" /></a> </p>
 
 - 📫 How to reach me **admin@wfix.kr**
@@ -37,7 +34,7 @@
 
 **The above is not an official school operation, but an individual's hobby**
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkawkqhr&label=Profile%20views&color=0e75b6&style=flat" alt="wkawkqhr" /> </p>
 
 
 <!--
