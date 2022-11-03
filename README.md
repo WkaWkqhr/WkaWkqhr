@@ -28,7 +28,7 @@
 ### ✨ Experience
 - **GNUBS Site** - Gyungsang National University High School Student Convenience Site Operation *(Mar 2021 ~)*
 - **GNUBS Bot** - Gyungsang National University High School Student Convenience Automatically upload related information bot *(Mar 2022 ~)*
-- **GNUBS Proxy** - Proxy server for security of student convenience service at high school affiliated with Gyeongsang National University of Education *(Oct 2022 ~)*
+- **GNUBS Proxy** - Gyungsang National University High School Operates Proxy Server for Student Convenience Service Security *(Oct 2022 ~)*
 <br/>
 
 **The above is not an official school operation, but an individual's hobby**
