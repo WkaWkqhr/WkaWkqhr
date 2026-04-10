@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiho Lee!</h1>
-<h3 align="center">I am a student at Gyungsang National University High School</h3>
+<h3 align="center">I am a student at Silla University</h3>
 
 
 <br/>
@@ -14,27 +14,60 @@
 
 
 - 📫 How to reach me **admin@wfix.kr**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/wkawkqhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wkawkqhr" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<a href="mailto:admin@wfix.kr">
+  <img src="https://img.shields.io/badge/Email-admin@wfix.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 ### ✨ Experience
-- **GNUBS Site** - Gyungsang National University High School Student Convenience Site Operation *(Mar 2021 ~)*
+- **GNUBS Site** - Gyungsang National University High School Student Convenience Site Operation *(Mar 2021 ~ March 2024, archived)*
 - **GNUBS Bot** - Gyungsang National University High School Student Convenience Automatically upload related information bot *(Mar 2022 ~)*
-- **GNUBS Proxy** - Gyungsang National University High School Operates Proxy Server for Student Convenience Service Security *(Oct 2022 ~)*
+- **wfix Proxy** - Wfix Operates Proxy Server for Convenience Service Security *(Oct 2022 ~)*
+- **Silla Bot** - Silla University Student Convenience Automatically upload related information bot *(Mar 2025 ~)*
+- **Wfix Web Services** - Web-based service operation for Wfix members *(Jan 2026 ~ )*
 <br/>
 
-**The above is not an official school operation, but an individual's hobby**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WkaWkqhr&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔒 wfix Proxy</h3>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Since-Oct%202022-blue?style=flat-square"/>
+      <br/><br/>
+      <p>Operates a proxy server to secure convenience services for Wfix members</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🤖 GNUBS Bot</h3>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Since-Mar%202022-blue?style=flat-square"/>
+      <br/><br/>
+      <p>Automatically uploads relevant information for Gyungsang National University High School students</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎓 Silla Bot</h3>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Since-Mar%202025-blue?style=flat-square"/>
+      <br/><br/>
+      <p>Automatically uploads relevant information for Silla University students</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌐 Wfix Web Services</h3>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Since-Jan%202026-blue?style=flat-square"/>
+      <br/><br/>
+      <p>Web-based service platform operated for Wfix members</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> ⚠️ **The above is not an official school operation, but an individual's hobby**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkawkqhr&label=Profile%20views&color=0e75b6&style=flat" alt="wkawkqhr" /> </p>
 
